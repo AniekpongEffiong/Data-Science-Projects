@@ -1,8 +1,8 @@
 {
 	"Fuels & mining products": [
-        59,
-        152,
-        107
+        255,
+        255,
+        255
     ],
 	"Machinery & Transport": [
         59,
@@ -10,9 +10,9 @@
         107
     ],
 	"Agricultural products": [
-        59,
-        152,
-        107
+        255,
+        255,
+        255
     ],
 	"Chemicals": [
         59,
@@ -20,31 +20,31 @@
         107
     ],
 	"Automotive products": [
+        255,
+        255,
+        255
+    ],
+	"Office telecom equipment": [
         59,
         152,
         107
     ],
-	"Office & Telecom equipment": [
-        59,
-        152,
-        107
-    ],
-	"Electronic & Office equipment": [
-        59,
-        152,
-        107
+	"Electronic office equipment": [
+        255,
+        255,
+        255
     ],
 	"Iron & steel": [
         59,
         152,
         107
     ],
-	"Textiles": [
+	"Telecommunications": [
         59,
         152,
         107
     ],
-	"Pharmaceuticals": [
+	"Clothing": [
         59,
         152,
         107

@@ -4,10 +4,10 @@
         152,
         107
     ],
-	"Machinery & Transport": [
-        59,
-        152,
-        107
+	"Machineries": [
+        255,
+        255,
+        255
     ],
 	"Agricultural products": [
         59,
@@ -15,9 +15,9 @@
         107
     ],
 	"Chemicals": [
-        59,
-        152,
-        107
+        255,
+        255,
+        255
     ],
 	"Automotive products": [
         59,
@@ -25,9 +25,9 @@
         107
     ],
 	"Office & Telecom equipment": [
-        59,
-        152,
-        107
+        255,
+        255,
+        255
     ],
 	"Electronic & Office equipment": [
         59,
@@ -35,19 +35,19 @@
         107
     ],
 	"Iron & steel": [
-        59,
-        152,
-        107
+        255,
+        255,
+        255
     ],
-	"Textiles": [
-        59,
-        152,
-        107
+	"I Told Them ft. GZA": [
+        174,
+        213,
+        244
     ],
-	"Pharmaceuticals": [
-        59,
-        152,
-        107
+	"If I'm Lying": [
+        174,
+        213,
+        244
     ],
 	"Virgil": [
         174,
