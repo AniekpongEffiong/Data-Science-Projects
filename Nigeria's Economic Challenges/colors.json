@@ -1,1 +1,53 @@
+{
+	"Hunger": [
+        39,
+        171,
+        95
+    ],
 
+        "Basic Needs": [
+        39,
+        171,
+        95
+    ],
+        "Unemployment": [
+        39,
+        171,
+        95
+    ],
+        "Insecurity": [
+        39,
+        171,
+        95
+    ],
+        "Power Outages": [
+        39,
+        171,
+        95
+    ],
+        "Infrastructure": [
+        39,
+        171,
+        95
+    ],
+        "Economy": [
+        39,
+        171,
+        95
+    ],
+        "Electricity Rates": [
+        39,
+        171,
+        95
+    ],
+        "Fuel Scarcity": [
+        39,
+        171,
+        95
+    ],
+        "Others": [
+        39,
+        171,
+        95
+    ]
+}
